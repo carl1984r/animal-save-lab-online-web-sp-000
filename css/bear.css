@@ -8,8 +8,7 @@ html {
   left: 800px;
 }
 
-@media only screen and (max-width: 1196px){
+@media only screen and (min-width: 1196px){
  #bear {
-  position: auto;
-  float: right;
+  left: 800px;
  }
