@@ -3,7 +3,7 @@ html {
 }
 
 #bear {
-  position: static;
+  position: fixed;
   top: 100px;
   left: 0px:
 }
