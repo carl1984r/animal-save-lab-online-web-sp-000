@@ -12,4 +12,5 @@ html {
  #bear {
   position: absolute;
   left: 0px;
+  float: right;
  }
